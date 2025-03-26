@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Alejandro from Spain.<br><br>- 🔭 I’m not working.<br>- 📚 I'm currently learning Computer Engineering.<br>- ⚡ In my free time I'm into investing and AI</p>
+<p align="left">I'm Alejandro from Spain.<br><br>- 🔭 I’m not working.<br>- 📚 I'm currently learning Computer Engineering at Universidad de Murcia.<br>- ⚡ In my free time I'm into investing and learning about AI</p>
 
 ###
 
