@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Alejandro from Spain.<br><br>- 🔭 I’m not working.<br>- 📚 I'm currently learning Computer Engineering.<br>- ⚡ In my free time I'm into investing and AI</p>
 
 ###
 
